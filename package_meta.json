@@ -1,0 +1,13 @@
+{
+  "쌀(kg)":       {"case_size": 10, "unit": "kg"},
+  "김(장)":       {"case_size": 100, "unit": "장"},
+  "단무지(줄)":   {"case_size": 50, "unit": "줄"},
+  "김밥용햄(줄)": {"case_size": 30, "unit": "줄"},
+  "라면면(개)":   {"case_size": 40, "unit": "개"},
+  "라면스프(개)": {"case_size": 40, "unit": "개"},
+  "파(kg)":       {"case_size": 5, "unit": "kg"},
+  "가래떡(kg)":   {"case_size": 5, "unit": "kg"},
+  "어묵(장)":     {"case_size": 50, "unit": "장"},
+  "양배추(kg)":   {"case_size": 10, "unit": "kg"},
+  "양념장(kg)":   {"case_size": 10, "unit": "kg"}
+}
